@@ -1,1 +1,2 @@
-Model Klasifikasi Gambar Tanaman
+# Model Klasifikasi Gambar Tanaman
+## Dataset : https://www.kaggle.com/datasets/marquis03/plants-classification/
